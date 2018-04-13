@@ -1,8 +1,11 @@
 # bihu-vote
 
-币乎点赞的chrome插件，安装方法自行搜索。
+币乎点赞的chrome插件，安装方法自行搜索。 
 原始作者：https://github.com/mxyzzhong/bihu-vote
 
+币乎注册邀请链接，可以领奖励：
+ https://zt.bihu.com/?id=225579
+ 
 安装方法：
 
 * 安装chrome浏览器
