@@ -17,6 +17,6 @@
 
 * 导入之前解压的文件目录
 
-  ![](https://ws2.sinaimg.cn/large/006tKfTcgy1fqav2a95ahj312r0odjww.jpg)
+  ![](https://ws1.sinaimg.cn/large/006tKfTcgy1fqav8o01irj312u0ghq6x.jpg)
 
 * 登陆 https://www.bihu.com 完成登陆，即可挂机
