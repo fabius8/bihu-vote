@@ -3,6 +3,8 @@
 币乎点赞的chrome插件，安装方法自行搜索。
 原始作者：https://github.com/mxyzzhong/bihu-vote
 
+安装方法：
+
 * 安装chrome浏览器
 
 * 下载zip打包文件到本地，解压文件
@@ -11,7 +13,7 @@
 
 * chrome浏览器打开插件管理页面
 
-![](https://ws3.sinaimg.cn/large/006tKfTcgy1fqauuuhvsej30gq0bv76u.jpg)
+  ![](https://ws3.sinaimg.cn/large/006tKfTcgy1fqauuuhvsej30gq0bv76u.jpg)
 
 * 导入之前解压的文件目录
 
