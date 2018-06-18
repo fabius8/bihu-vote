@@ -2,11 +2,15 @@
     "manifest_version": 2,
     "name": "币乎点赞",
     "description": "自动为关注的人的最新文章点赞",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "minimum_chrome_version": "63",
     "browser_action": {
         "default_title": "币乎点赞"
     },
+    "permissions": [
+        "webRequest",
+        "https://bihu.com/*"
+    ],
     "content_scripts": [
         {
             "matches": ["https://bihu.com/*"],

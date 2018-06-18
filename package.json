@@ -1,11 +1,14 @@
 {
   "name": "bihu-vote",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "auto vote hibu article",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "fabius8@163.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-schedule": "^1.3.0"
+  }
 }
