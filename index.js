@@ -8,7 +8,7 @@ async function autoVote(interval = 1000) {
             const articles = await fetchFollowArticles();
             for (let i = 0; i <  articles.length; ++ i) {
                 article = articles[i];
-                if (!article.up && article.ups < 100) {
+                if (!article.up && article.ups < 50) {
                     console.table(article);
                     vote(article.id);
                 }
